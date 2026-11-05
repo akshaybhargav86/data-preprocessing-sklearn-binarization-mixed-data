@@ -1,4 +1,5 @@
 # Data Preprocessing using Python & Scikit-learn
+A hands-on Data Science project exploring Binarization and Mixed Data Handling techniques using Python and Scikit-learn for machine learning data preprocessing.
 
 ## 📌 Project Overview
 
